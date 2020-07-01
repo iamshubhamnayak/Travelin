@@ -55,7 +55,7 @@ nav:hover {
   color: #4bcabe;
 }
 nav {
-  padding: 2rem;
+  padding: 1rem;
   display: flex;
   width: 90%;
   margin: auto;
@@ -233,7 +233,7 @@ footer {
 .footer-wrapper {
   display: flex;
   align-items: center;
-  padding: 2rem;
+  padding: 1rem;
   margin: auto;
   width: 90%;
   min-height: 10vh;
