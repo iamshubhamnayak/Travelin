@@ -81,7 +81,7 @@ nav ul {
 .hero {
   min-height: 90vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url(/img/varshesh-joshi-qaZofx5ePm8-unsplash.jpg);
+    url('img/varshesh-joshi-qaZofx5ePm8-unsplash.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -98,7 +98,7 @@ nav ul {
 #location {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url(/img/francesca-noemi-marconi-5s77ByGM2Lw-unsplash.jpg);
+    url('img/francesca-noemi-marconi-5s77ByGM2Lw-unsplash.jpg');
   background-size: cover;
   background-position: center;
   color: white;
@@ -187,7 +187,7 @@ nav ul {
 #contact {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url(/img/saksham-gangwar-wWiEThMgY94-unsplash.jpg);
+    url('img/saksham-gangwar-wWiEThMgY94-unsplash.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
